@@ -1,0 +1,24 @@
+{
+  "name": "twitch-eventsub-full-implementation",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilverStar07/Twitch-EventSub-Full-Implementation.git"
+  },
+  "author": "SirSilverStar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilverStar07/Twitch-EventSub-Full-Implementation/issues"
+  },
+  "homepage": "https://github.com/SilverStar07/Twitch-EventSub-Full-Implementation#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "tmi.js": "^1.8.5"
+  }
+}
